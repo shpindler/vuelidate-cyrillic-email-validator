@@ -1,0 +1,28 @@
+{
+  "name": "vuelidate-cyrillic-email-validator",
+  "version": "1.0.0",
+  "description": "Vuelidate validator for cyrillic emails.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shpindler/vuelidate-cyrillic-email-validator.git"
+  },
+  "keywords": [
+    "vuelidate",
+    "email",
+    "cyrillic",
+    "validator"
+  ],
+  "author": "Alexander Shpindler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shpindler/vuelidate-cyrillic-email-validator/issues"
+  },
+  "homepage": "https://github.com/shpindler/vuelidate-cyrillic-email-validator#readme",
+  "dependencies": {
+    "vuelidate": "^0.7.5"
+  }
+}
